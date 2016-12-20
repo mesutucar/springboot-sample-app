@@ -31,7 +31,7 @@
 
 
     <build>
-        <finalName>app</finalName>
+        <finalName>app-dep</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
